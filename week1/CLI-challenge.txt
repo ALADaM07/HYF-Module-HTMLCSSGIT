@@ -1,0 +1,14 @@
+Hello,
+1-To creat a hiddin file we use the command touch .file-name
+hidding folder we use the command mkdir .folder-name
+to display a hiddin file or folder in CLI we use the command : ls -a (shows the hiddin files) ls -la (it shows all the files and folder even if they`re hiddin)
+2-to creat multiple nested directories we use : mkdir -p /c/users/myusername/these/folders/are/just/for/fun
+3-first we creat a text file using the command : touch filename.txt
+then to write multiline text inside that file we use :
+cat > filename.txt <<__E0F__
+>First message
+>Second message
+>Third message
+__E0F__
+4-To write inside a text file through GitBash we use :
+nano filename.txt 
