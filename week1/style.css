@@ -116,7 +116,7 @@ h1 {
     background-color: #969696;
 }
 
-.work  {
+ main ul {
     text-align: center;
     color: #D6D7D3;
     padding-top: 70px;
@@ -161,11 +161,6 @@ main h2 {
     background-color: #969696;
 }
 
-.edu {
-    text-align: center;
-    color: rgb(255, 255, 255);
-    padding-top: 70px;
-}
 
 .edu li{
     color: #fff;
