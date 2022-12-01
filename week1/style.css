@@ -117,7 +117,7 @@ h1 {
 
 }
 
-.s1 {
+.s1 .s2 {
     background-color: #969696;
 }
 
@@ -154,12 +154,8 @@ h1 {
     font-size: 18px;
 }
 
-.s2 {
-    background-color: #969696;
-}
 
-
-.main ul li{
+.main ul li {
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
