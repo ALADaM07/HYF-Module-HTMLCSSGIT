@@ -116,13 +116,13 @@ h1 {
     background-color: #969696;
 }
 
- main ul {
+.main ul {
     text-align: center;
     color: #D6D7D3;
     padding-top: 70px;
 }
 
-main h2 {
+.main h2 {
     text-align: center;
     color: rgb(67, 66, 66);
     padding: 15px 15px;
