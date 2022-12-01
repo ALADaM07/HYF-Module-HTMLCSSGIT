@@ -122,7 +122,7 @@ h1 {
     padding-top: 70px;
 }
 
-.workh2 {
+main h2 {
     text-align: center;
     color: rgb(67, 66, 66);
     padding: 15px 15px;
@@ -177,18 +177,7 @@ h1 {
 
 
 
-.eduh2 {
-    text-align: center;
-    color: rgb(67, 66, 66);
-    padding: 15px 15px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 40px;
-    border: 2px solid #ffffff;
-    text-transform: uppercase;
-    letter-spacing: 17px;
-    background-color: #AE8681;
 
-}
 
 .iul span {
     font-size: 18px;
